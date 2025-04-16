@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="Yassin DWHASS"
+  DTS:DTSID="{5E47CB32-F62F-4D93-9720-4E2B46C46CEC}"
+  DTS:CreationName="ADO">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=Yassin-Ali\MSSQLSERVER2022;Initial Catalog=DWHASS;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-Integration Services Project-{5E47CB32-F62F-4D93-9720-4E2B46C46CEC}Yassin-Ali\MSSQLSERVER2022.DWHASS;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
